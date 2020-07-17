@@ -1,2 +1,2 @@
 # Sayi_Yazi_Donusturucu
-Girilen sayıyı yazıya dönüştüren program.
+Girilen sayıyı Türkçe yazıya dönüştüren program.
